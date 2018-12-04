@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cc00017-3a23-4e7c-86c1-32cbaa5e42d9" name="Default" comment="" />
+    <list default="true" id="1cc00017-3a23-4e7c-86c1-32cbaa5e42d9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-common/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-common/src/main/java/com/basic/aidp/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-common/src/main/java/com/example/demo/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-common/src/main/java/com/basic/aidp/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-common/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-common/src/test/java/com/basic/aidp/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-framework/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-framework/src/main/java/com/basic/aidp/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-framework/src/main/java/com/example/demo/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-framework/src/main/java/com/basic/aidp/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-framework/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-framework/src/test/java/com/basic/aidp/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-mongo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-mongo/src/main/java/com/basic/aidp/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-mongo/src/main/java/com/example/demo/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-mongo/src/main/java/com/basic/aidp/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-mongo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-mongo/src/test/java/com/basic/aidp/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-redis/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-redis/src/main/java/com/basic/aidp/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-redis/src/main/java/com/example/demo/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-redis/src/main/java/com/basic/aidp/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aidp-redis/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/aidp-redis/src/test/java/com/basic/aidp/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/message1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/message2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ming/platform/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ming/platform/MyRouteBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.properties" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/aidp-common/target/" />
     <ignored path="$PROJECT_DIR$/aidp-redis/target/" />
@@ -19,7 +39,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="DemoApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/example/demo/DemoApplication.java">
+        <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/basic/aidp/DemoApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
               <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
@@ -32,7 +52,7 @@
         </entry>
       </file>
       <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/example/demo/HelloController.java">
+        <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/basic/aidp/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
@@ -44,8 +64,18 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
+            <state relative-caret-position="-87">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aidp-common/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -115,11 +145,6 @@
               <item name="aidp" type="b2602c69:ProjectViewProjectNode" />
               <item name="aidp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="aidp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aidp" type="462c0819:PsiDirectoryNode" />
-              <item name="aidp-common" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -130,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/project/file-manager" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -207,16 +232,15 @@
       <workItem from="1542005277618" duration="5513000" />
       <workItem from="1542591159977" duration="638000" />
       <workItem from="1542787496177" duration="4455000" />
-      <workItem from="1543887495884" duration="955000" />
+      <workItem from="1543887495884" duration="2374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11561000" />
+    <option name="totallyTimeSpent" value="12980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -261,7 +285,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/example/demo/DemoApplication.java">
+    <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/basic/aidp/DemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
@@ -272,14 +296,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/example/demo/HelloController.java">
+    <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/basic/aidp/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aidp-common/src/test/java/com/example/demo/DemoApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/aidp-common/src/test/java/com/basic/aidp/DemoApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
@@ -293,7 +317,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/example/demo/DemoApplication.java">
+    <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/basic/aidp/DemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
@@ -304,18 +328,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/example/demo/HelloController.java">
+    <entry file="file://$PROJECT_DIR$/aidp-common/src/main/java/com/basic/aidp/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aidp-common/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
+        <state relative-caret-position="-87">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>
