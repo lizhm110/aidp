@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/aidp-redis/pom.xml" />
         <option value="$PROJECT_DIR$/aidp-framework/pom.xml" />
         <option value="$PROJECT_DIR$/aidp-mongo/pom.xml" />
+        <option value="$PROJECT_DIR$/aidp-kafka/pom.xml" />
       </list>
     </option>
   </component>

@@ -9,6 +9,7 @@
         <module name="aidp" />
         <module name="aidp-common" />
         <module name="aidp-framework" />
+        <module name="aidp-kafka" />
         <module name="aidp-mongo" />
         <module name="aidp-redis" />
       </profile>
